@@ -1,0 +1,11 @@
+{
+  "name": "mexri",
+  "version": "9.9.9",
+  "description": "a ham b qosindisi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
